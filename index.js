@@ -5,7 +5,7 @@ function myAnimal() {
 }
 //returns your animal
 function yourAnimal() {
-var animal = 'cat'
+  var animal = 'cat'
   return animal
 }
 //adds two to n
